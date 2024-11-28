@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content h1{
+    font-family: Impact;
+    margin: 53.6px 0px;
+    font-family: 700;
+    font-size: 80px;
+}
+
+.content p{
+    font-family: "Times New Roman";
+    font-family: 400;
+    font-size: 35px;
+}
+
+.content button{
+    margin:35px;
+    padding: 30px 90px;
+    font-family: 400;
+    font-size: 13.3333px;
+    background-color: blue;
+    color: white;
+}
+
+.content button:hover{
+    background-color: green;
+}
